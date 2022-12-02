@@ -1,4 +1,4 @@
-<h3 align="left">Hi. My Name Is Mohamed Khaled And I'm A Frontend Developer From Egypt.<br>I Am Studying Computer Science At Mansoura University</h3>
+<h4 align="center">Hi. My Name Is Mohamed Khaled And I'm A Frontend Developer From Egypt.<br>I Am Studying Computer Science At Mansoura University</h4>
 
 ###
 
@@ -19,6 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="60" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="60" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="40" width="60" alt="less logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="60" alt="vscode logo"  />
 </div>
 
 ###
