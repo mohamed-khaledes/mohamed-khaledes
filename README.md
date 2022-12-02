@@ -1,13 +1,11 @@
-<h2 align="center">Hi. My Name Is Mohamed Khaled And I'm A Frontend Developer From Egypt.<br>I Am Studying Computer Science At Mansoura University</h2>
+<h1 align="left">Hi.<br> My Name Is Mohamed Khaled.</h1>
 
-###
+<h4>I'm A Frontend Developer From Egypt.<br>
+  I Am Studying Computer Science At Mansoura University</h4>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=ocean_dark&hide_border=true&username=mohamed-khaled11" height="150" alt="languages graph"  />
-</div>
 
-###
 
+<h3>My Skills:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="60" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="60" alt="react logo"  />
@@ -22,7 +20,7 @@
 </div>
 
 ###
-
+<h3>My Social Media:</h3>
 <div align="left">
   <a href="https://www.youtube.com/channel/UC-0wkFv1346CzFZz65lkq7A" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="65" height="40" alt="youtube logo"  />
