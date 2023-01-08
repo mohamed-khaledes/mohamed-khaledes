@@ -1,7 +1,7 @@
-<h1 align="left">Hi.<br> My Name Is Mohamed Khaled.</h1>
+<h1 align="left">Hi.<br> I'm Mohamed Khaled.</h1>
 
-<h4>I'm A Frontend Developer From Egypt.<br>
-  I Am Studying Computer Science At Mansoura University</h4>
+<h4>I'm A Frontend Developer From Egypt. And I'm 20. <br>
+  I'm studying Computer Science in the Faculty of Science at Mansoura University</h4>
 
 
 
