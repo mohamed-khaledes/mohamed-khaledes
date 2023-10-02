@@ -36,7 +36,7 @@
   <a href="mohamedkhaelsayed@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-khaled-364393217/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-khaledes/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/m7md5aled22" target="_blank">
