@@ -42,7 +42,7 @@
   <a href="https://twitter.com/m7md5aled22" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="65" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://codepen.io/your-work/" target="_blank">
+  <a href="https://codepen.io/mohamed-khaledes" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="65" height="40" alt="codepen logo"  />
   </a>
 </div>
