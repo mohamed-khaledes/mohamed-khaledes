@@ -1,7 +1,10 @@
 <h1 align="left">Hi.<br> I'm Mohamed Khaled.</h1>
 
-<h4>I'm a software engineer & frontend developer from egypt . I'm 20. <br>
-  I'm studying computer science in the faculty of science at Mansoura University </h4>
+<h4>I'm mohamed khaled elsayed. I'm 20. I study computer science at the Faculty of
+Science, Mansoura University, I am A Front-End Developer with one year of
+experience specializing in web development, user interface design, and React.JS.
+Adept at identifying opportunities to enhance front-end design and improve the
+user experience </h4>
 
 
 
@@ -22,6 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="40" width="60" alt="less logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="60" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="60" alt="materialui logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"  height="40" width="60" alt="jest logo"/>
+
 </div>
 
 ###
