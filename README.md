@@ -1,10 +1,6 @@
 <h1 align="left">Hi.<br> I'm Mohamed Khaled.</h1>
 
-<h4>I'm mohamed khaled elsayed. I'm 21. I study computer science at the Faculty of
-Science, Mansoura University, I am A Front-End Developer with one year of
-experience specializing in web development, user interface design, and React.JS.
-Adept at identifying opportunities to enhance front-end design and improve the
-user experience </h4>
+<h4>As a 21-year-old frontend developer with one year of professional experience, my name is Mohamed Khaled. I bring a strong foundation in HTML, CSS, and JavaScript, along with expertise in Bootstrap, React.js, Redux.js, Tailwind.css, and API integration. I am well-versed in the basics of web development and have a keen understanding of modern development practices. I am also proficient in using Jest for testing. I am passionate about creating engaging and user-friendly interfaces, and I am committed to staying updated with the latest industry trends and best practices. With a proven track record of delivering high-quality, responsive, and visually appealing web applications, I am dedicated to leveraging my skills to drive impactful and innovative frontend solutions. </h4>
 
 
 
