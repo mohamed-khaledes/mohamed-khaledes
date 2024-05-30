@@ -27,6 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  height="40" width="60" alt="firebase logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" width="60" alt="three.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="60" alt="figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg"  height="40" width="60" alt="framer-motion"/>
 </div>
 
 ###
