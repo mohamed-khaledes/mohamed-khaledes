@@ -1,6 +1,6 @@
 <h1 align="left">Hi.<br> I'm Mohamed Khaled.</h1>
 
-<h4>As a 21-year-old frontend developer with one year of professional experience, my name is Mohamed Khaled Student at Mansoura University studying Computer Science in the College of Science. I bring a strong foundation in HTML, CSS, and JavaScript, along with expertise in Bootstrap, React.js, Redux.js, Tailwind.css, and API integration. I am well-versed in the basics of web development and have a keen understanding of modern development practices. I am also proficient in using Jest for testing. I am passionate about creating engaging and user-friendly interfaces, and I am committed to staying updated with the latest industry trends and best practices. With a proven track record of delivering high-quality, responsive, and visually appealing web applications, I am dedicated to leveraging my skills to drive impactful and innovative frontend solutions. </h4>
+<h4>As a 22-year-old frontend developer with two years of professional experience, my name is Mohamed Khaled I graduated from Mansoura University with a Bachelor's degree in Computer Science from the College of Science. Throughout my studies, I developed a strong foundation in programming, algorithms, and software development, complemented by hands-on projects that honed my problem-solving skills. I am passionate about leveraging technology to create innovative solutions. I bring a strong foundation in HTML, CSS, and JavaScript, along with expertise in Bootstrap, React.js, Redux.js, Tailwind.css, and API integration. I am well-versed in the basics of web development and have a keen understanding of modern development practices. I am also proficient in using Jest for testing. I am passionate about creating engaging and user-friendly interfaces, and I am committed to staying updated with the latest industry trends and best practices. With a proven track record of delivering high-quality, responsive, and visually appealing web applications, I am dedicated to leveraging my skills to drive impactful and innovative frontend solutions. </h4>
 
 
 
@@ -28,6 +28,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" width="60" alt="three.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="60" alt="figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg"  height="40" width="60" alt="framer-motion"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" height="40" width="60" alt="react-router"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" height="40" width="60" alt="react-bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="40" width="60" alt="azuredevops"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="40" width="60" alt="jira"/>
 </div>
 
 ###
