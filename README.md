@@ -1,6 +1,11 @@
 <h1 align="left">Hi.<br> I'm Mohamed Khaled.</h1>
 
-<h4>As a 22-year-old frontend developer with two years of professional experience, my name is Mohamed Khaled I graduated from Mansoura University with a Bachelor's degree in Computer Science from the College of Science. Throughout my studies, I developed a strong foundation in programming, algorithms, and software development, complemented by hands-on projects that honed my problem-solving skills. I am passionate about leveraging technology to create innovative solutions. I bring a strong foundation in HTML, CSS, and JavaScript, along with expertise in Bootstrap, React.js, Redux.js, Tailwind.css, and API integration. I am well-versed in the basics of web development and have a keen understanding of modern development practices. I am also proficient in using Jest for testing. I am passionate about creating engaging and user-friendly interfaces, and I am committed to staying updated with the latest industry trends and best practices. With a proven track record of delivering high-quality, responsive, and visually appealing web applications, I am dedicated to leveraging my skills to drive impactful and innovative frontend solutions. </h4>
+<h4>Frontend Engineer with a focus on building high-performance, scalable web architectures using React.js, 
+Next.js, and TypeScript. Proven track record in optimizing complex state management via zustand and React 
+Query to deliver seamless, real-time user experiences. Expert at translating design concepts into pixel-perfect, 
+responsive interfaces while integrating robust RESTful APIs for dynamic functionality. Committed to code 
+quality through Git-flow and modern build tools, with a passion for adopting emerging technologies to drive 
+technical excellence. </h4>
 
 
 
