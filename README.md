@@ -1,11 +1,8 @@
 <h1 align="left">Hi.<br> I'm Mohamed Khaled.</h1>
 
-<h4>Frontend Engineer with a focus on building high-performance, scalable web architectures using React.js, 
-Next.js, and TypeScript. Proven track record in optimizing complex state management via zustand and React 
-Query to deliver seamless, real-time user experiences. Expert at translating design concepts into pixel-perfect, 
-responsive interfaces while integrating robust RESTful APIs for dynamic functionality. Committed to code 
-quality through Git-flow and modern build tools, with a passion for adopting emerging technologies to drive 
-technical excellence. </h4>
+<h4>Frontend Engineer with over three years of professional experience building scalable, high-performance web applications used in real-world production environments. I graduated from Mansoura University with a Bachelor's degree in Computer Science, where I developed a strong foundation in algorithms, data structures, and software engineering principles that continue to guide how I design and build systems today.
+
+I specialize in developing modern, responsive applications using React.js, Next.js, JavaScript (ES6+), and TypeScript, with solid experience in state management, RESTful API integration, and frontend architecture design. I focus on writing clean, maintainable, and testable code, applying best practices and using tools like Jest to ensure reliability and long-term scalability. </h4>
 
 
 
